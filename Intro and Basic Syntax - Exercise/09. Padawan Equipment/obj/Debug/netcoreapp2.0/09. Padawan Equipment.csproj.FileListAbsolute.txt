@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.pdb

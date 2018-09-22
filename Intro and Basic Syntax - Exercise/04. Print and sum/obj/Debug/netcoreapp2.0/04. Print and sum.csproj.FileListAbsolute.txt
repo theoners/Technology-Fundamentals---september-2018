@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csprojResolveAssemblyReference.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.pdb

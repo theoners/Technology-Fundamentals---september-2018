@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csprojResolveAssemblyReference.cache

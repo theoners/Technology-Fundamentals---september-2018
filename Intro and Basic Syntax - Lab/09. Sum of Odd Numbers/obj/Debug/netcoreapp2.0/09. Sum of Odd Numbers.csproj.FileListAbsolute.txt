@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\09. Sum of Odd Numbers.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\09. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\09. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\09. Sum of Odd Numbers.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\09. Sum of Odd Numbers.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\09. Sum of Odd Numbers.pdb

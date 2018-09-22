@@ -1,0 +1,10 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.0\05. Login.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.0\05. Login.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.0\05. Login.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.0\05. Login.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\netcoreapp2.0\05. Login.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.0\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.0\05. Login.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.0\05. Login.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.0\05. Login.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\netcoreapp2.0\05. Login.pdb

@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp2.0\08. Triangle of Numbers.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp2.0\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp2.0\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp2.0\08. Triangle of Numbers.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp2.0\08. Triangle of Numbers.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp2.0\08. Triangle of Numbers.pdb

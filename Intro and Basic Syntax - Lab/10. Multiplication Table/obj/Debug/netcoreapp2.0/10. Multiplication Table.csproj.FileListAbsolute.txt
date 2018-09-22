@@ -1,0 +1,10 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\netcoreapp2.0\10. Multiplication Table.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\netcoreapp2.0\10. Multiplication Table.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\netcoreapp2.0\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\netcoreapp2.0\10. Multiplication Table.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\bin\Debug\netcoreapp2.0\10. Multiplication Table.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\netcoreapp2.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\netcoreapp2.0\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\netcoreapp2.0\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\netcoreapp2.0\10. Multiplication Table.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\10. Multiplication Table\obj\Debug\netcoreapp2.0\10. Multiplication Table.pdb

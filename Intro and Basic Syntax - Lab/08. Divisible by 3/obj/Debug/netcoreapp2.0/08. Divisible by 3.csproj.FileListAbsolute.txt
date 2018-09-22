@@ -1,0 +1,10 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\netcoreapp2.0\08. Divisible by 3.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\netcoreapp2.0\08. Divisible by 3.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\netcoreapp2.0\08. Divisible by 3.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\netcoreapp2.0\08. Divisible by 3.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\bin\Debug\netcoreapp2.0\08. Divisible by 3.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\netcoreapp2.0\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\netcoreapp2.0\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\netcoreapp2.0\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\netcoreapp2.0\08. Divisible by 3.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Lab\08. Divisible by 3\obj\Debug\netcoreapp2.0\08. Divisible by 3.pdb

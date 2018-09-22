@@ -1,0 +1,11 @@
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\bin\Debug\netcoreapp2.0\01. Ages.deps.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\bin\Debug\netcoreapp2.0\01. Ages.runtimeconfig.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\bin\Debug\netcoreapp2.0\01. Ages.runtimeconfig.dev.json
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\bin\Debug\netcoreapp2.0\01. Ages.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\bin\Debug\netcoreapp2.0\01. Ages.pdb
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.csprojResolveAssemblyReference.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.AssemblyInfoInputs.cache
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.AssemblyInfo.cs
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.dll
+C:\Users\theoners\source\repos\Intro and Basic Syntax - Exercise\01. Ages\obj\Debug\netcoreapp2.0\01. Ages.pdb
