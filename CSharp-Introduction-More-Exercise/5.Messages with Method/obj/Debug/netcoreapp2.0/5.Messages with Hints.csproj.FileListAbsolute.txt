@@ -1,0 +1,11 @@
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\bin\Debug\netcoreapp2.0\5.Messages with Hints.deps.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\bin\Debug\netcoreapp2.0\5.Messages with Hints.runtimeconfig.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\bin\Debug\netcoreapp2.0\5.Messages with Hints.runtimeconfig.dev.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\bin\Debug\netcoreapp2.0\5.Messages with Hints.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\bin\Debug\netcoreapp2.0\5.Messages with Hints.pdb
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.AssemblyInfoInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.AssemblyInfo.cs
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\5.Messages with Method\obj\Debug\netcoreapp2.0\5.Messages with Hints.pdb

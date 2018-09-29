@@ -1,0 +1,11 @@
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\bin\Debug\netcoreapp2.0\3. Gaming Store.deps.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\bin\Debug\netcoreapp2.0\3. Gaming Store.runtimeconfig.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\bin\Debug\netcoreapp2.0\3. Gaming Store.runtimeconfig.dev.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\bin\Debug\netcoreapp2.0\3. Gaming Store.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\bin\Debug\netcoreapp2.0\3. Gaming Store.pdb
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.AssemblyInfo.cs
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\3. Gaming Store\obj\Debug\netcoreapp2.0\3. Gaming Store.pdb

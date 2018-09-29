@@ -1,0 +1,11 @@
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\bin\Debug\netcoreapp2.0\2. English Name of the Last Digit.deps.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\bin\Debug\netcoreapp2.0\2. English Name of the Last Digit.runtimeconfig.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\bin\Debug\netcoreapp2.0\2. English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\bin\Debug\netcoreapp2.0\2. English Name of the Last Digit.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\bin\Debug\netcoreapp2.0\2. English Name of the Last Digit.pdb
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\2. English Name of the Last Digit\obj\Debug\netcoreapp2.0\2. English Name of the Last Digit.pdb

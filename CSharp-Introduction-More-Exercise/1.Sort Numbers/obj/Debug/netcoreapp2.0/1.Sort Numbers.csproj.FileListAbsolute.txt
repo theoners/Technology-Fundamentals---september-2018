@@ -1,0 +1,11 @@
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\bin\Debug\netcoreapp2.0\1.Sort Numbers.deps.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\bin\Debug\netcoreapp2.0\1.Sort Numbers.runtimeconfig.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\bin\Debug\netcoreapp2.0\1.Sort Numbers.runtimeconfig.dev.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\bin\Debug\netcoreapp2.0\1.Sort Numbers.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\bin\Debug\netcoreapp2.0\1.Sort Numbers.pdb
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.AssemblyInfo.cs
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\1.Sort Numbers\obj\Debug\netcoreapp2.0\1.Sort Numbers.pdb

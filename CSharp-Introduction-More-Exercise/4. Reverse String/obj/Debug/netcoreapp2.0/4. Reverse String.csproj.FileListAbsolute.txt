@@ -1,0 +1,10 @@
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\bin\Debug\netcoreapp2.0\4. Reverse String.deps.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\bin\Debug\netcoreapp2.0\4. Reverse String.runtimeconfig.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\bin\Debug\netcoreapp2.0\4. Reverse String.runtimeconfig.dev.json
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\bin\Debug\netcoreapp2.0\4. Reverse String.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\bin\Debug\netcoreapp2.0\4. Reverse String.pdb
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\obj\Debug\netcoreapp2.0\4. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\obj\Debug\netcoreapp2.0\4. Reverse String.AssemblyInfoInputs.cache
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\obj\Debug\netcoreapp2.0\4. Reverse String.AssemblyInfo.cs
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\obj\Debug\netcoreapp2.0\4. Reverse String.dll
+C:\Users\theoners\Desktop\CSharp-Introduction-More-Exercise\4. Reverse String\obj\Debug\netcoreapp2.0\4. Reverse String.pdb
