@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\bin\Debug\netcoreapp2.0\01. Sum Digits.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\bin\Debug\netcoreapp2.0\01. Sum Digits.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\bin\Debug\netcoreapp2.0\01. Sum Digits.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\bin\Debug\netcoreapp2.0\01. Sum Digits.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\bin\Debug\netcoreapp2.0\01. Sum Digits.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\01. Sum Digits\obj\Debug\netcoreapp2.0\01. Sum Digits.pdb

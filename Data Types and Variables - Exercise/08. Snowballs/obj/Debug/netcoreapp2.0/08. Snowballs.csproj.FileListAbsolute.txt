@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\bin\Debug\netcoreapp2.0\08. Snowballs.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\bin\Debug\netcoreapp2.0\08. Snowballs.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\bin\Debug\netcoreapp2.0\08. Snowballs.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\bin\Debug\netcoreapp2.0\08. Snowballs.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\bin\Debug\netcoreapp2.0\08. Snowballs.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\08. Snowballs\obj\Debug\netcoreapp2.0\08. Snowballs.pdb

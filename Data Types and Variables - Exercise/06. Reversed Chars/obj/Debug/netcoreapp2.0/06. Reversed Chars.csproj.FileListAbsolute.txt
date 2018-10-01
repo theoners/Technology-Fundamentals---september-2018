@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\bin\Debug\netcoreapp2.0\06. Reversed Chars.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\bin\Debug\netcoreapp2.0\06. Reversed Chars.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\bin\Debug\netcoreapp2.0\06. Reversed Chars.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\bin\Debug\netcoreapp2.0\06. Reversed Chars.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\bin\Debug\netcoreapp2.0\06. Reversed Chars.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\06. Reversed Chars\obj\Debug\netcoreapp2.0\06. Reversed Chars.pdb

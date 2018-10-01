@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.pdb

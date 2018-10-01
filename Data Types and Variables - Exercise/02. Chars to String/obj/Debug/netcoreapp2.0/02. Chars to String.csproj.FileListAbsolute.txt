@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\bin\Debug\netcoreapp2.0\02. Chars to String.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\bin\Debug\netcoreapp2.0\02. Chars to String.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\bin\Debug\netcoreapp2.0\02. Chars to String.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\bin\Debug\netcoreapp2.0\02. Chars to String.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\bin\Debug\netcoreapp2.0\02. Chars to String.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\obj\Debug\netcoreapp2.0\02. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\obj\Debug\netcoreapp2.0\02. Chars to String.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\obj\Debug\netcoreapp2.0\02. Chars to String.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\obj\Debug\netcoreapp2.0\02. Chars to String.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Exercise\02. Chars to String\obj\Debug\netcoreapp2.0\02. Chars to String.pdb
