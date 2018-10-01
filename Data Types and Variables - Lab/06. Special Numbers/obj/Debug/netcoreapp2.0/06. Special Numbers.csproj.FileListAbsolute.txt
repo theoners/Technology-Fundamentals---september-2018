@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\bin\Debug\netcoreapp2.0\06. Special Numbers.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\bin\Debug\netcoreapp2.0\06. Special Numbers.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\bin\Debug\netcoreapp2.0\06. Special Numbers.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\bin\Debug\netcoreapp2.0\06. Special Numbers.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\bin\Debug\netcoreapp2.0\06. Special Numbers.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\06. Special Numbers\obj\Debug\netcoreapp2.0\06. Special Numbers.pdb

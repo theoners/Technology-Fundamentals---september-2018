@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\bin\Debug\netcoreapp2.0\07. Triples of Latin Letters.deps.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\bin\Debug\netcoreapp2.0\07. Triples of Latin Letters.runtimeconfig.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\bin\Debug\netcoreapp2.0\07. Triples of Latin Letters.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\bin\Debug\netcoreapp2.0\07. Triples of Latin Letters.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\bin\Debug\netcoreapp2.0\07. Triples of Latin Letters.pdb
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.dll
+C:\Users\theoners\Source\repos\Data Types and Variables - Lab\07. Triples of Latin Letters\obj\Debug\netcoreapp2.0\07. Triples of Latin Letters.pdb
