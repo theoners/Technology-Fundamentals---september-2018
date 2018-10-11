@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.deps.json
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.dll
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.pdb
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.dll
+C:\Users\theoners\Source\repos\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp2.0\02. Print Numbers in Reverse Order.pdb

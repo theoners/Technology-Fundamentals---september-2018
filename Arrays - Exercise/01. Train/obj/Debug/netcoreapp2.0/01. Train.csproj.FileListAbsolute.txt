@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.deps.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.pdb
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.pdb

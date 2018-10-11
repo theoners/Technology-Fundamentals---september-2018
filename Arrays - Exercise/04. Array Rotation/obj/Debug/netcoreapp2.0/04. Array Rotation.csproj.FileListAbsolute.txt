@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.0\04. Array Rotation.deps.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.0\04. Array Rotation.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.0\04. Array Rotation.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.0\04. Array Rotation.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.0\04. Array Rotation.pdb
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.pdb
+C:\Users\theoners\Source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.0\04. Array Rotation.csprojResolveAssemblyReference.cache

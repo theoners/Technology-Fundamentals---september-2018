@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.deps.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.pdb
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.pdb

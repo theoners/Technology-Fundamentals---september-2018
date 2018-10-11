@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.0\05. Top Integers.deps.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.0\05. Top Integers.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.0\05. Top Integers.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.0\05. Top Integers.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp2.0\05. Top Integers.pdb
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.0\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.0\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.0\05. Top Integers.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.0\05. Top Integers.dll
+C:\Users\theoners\Source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp2.0\05. Top Integers.pdb

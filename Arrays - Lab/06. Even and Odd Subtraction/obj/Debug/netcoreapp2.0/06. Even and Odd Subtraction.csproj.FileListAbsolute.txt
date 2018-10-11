@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.0\06. Even and Odd Subtraction.deps.json
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.0\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.0\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.0\06. Even and Odd Subtraction.dll
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp2.0\06. Even and Odd Subtraction.pdb
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.dll
+C:\Users\theoners\Source\repos\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp2.0\06. Even and Odd Subtraction.pdb
