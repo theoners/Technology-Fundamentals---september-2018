@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.0\01. Smallest of Three Numbers.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.0\01. Smallest of Three Numbers.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.0\01. Smallest of Three Numbers.dll
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.0\01. Smallest of Three Numbers.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.dll
+c:\users\theoners\Source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.0\01. Smallest of Three Numbers.pdb

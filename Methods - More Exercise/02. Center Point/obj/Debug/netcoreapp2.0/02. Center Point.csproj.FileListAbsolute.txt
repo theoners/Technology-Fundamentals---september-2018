@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp2.0\02. Center Point.deps.json
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp2.0\02. Center Point.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp2.0\02. Center Point.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp2.0\02. Center Point.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp2.0\02. Center Point.pdb
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp2.0\02. Center Point.pdb

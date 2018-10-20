@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\bin\Debug\netcoreapp2.0\08. Greater of Two Values.deps.json
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\bin\Debug\netcoreapp2.0\08. Greater of Two Values.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\bin\Debug\netcoreapp2.0\08. Greater of Two Values.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\bin\Debug\netcoreapp2.0\08. Greater of Two Values.dll
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\bin\Debug\netcoreapp2.0\08. Greater of Two Values.pdb
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.dll
+c:\users\theoners\Source\repos\Methods - Lab\08. Greater of Two Values\obj\Debug\netcoreapp2.0\08. Greater of Two Values.pdb

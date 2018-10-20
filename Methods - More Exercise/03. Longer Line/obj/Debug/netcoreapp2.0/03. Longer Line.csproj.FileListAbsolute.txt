@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp2.0\03. Longer Line.deps.json
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp2.0\03. Longer Line.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp2.0\03. Longer Line.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp2.0\03. Longer Line.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp2.0\03. Longer Line.pdb
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp2.0\03. Longer Line.pdb

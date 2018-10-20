@@ -1,0 +1,10 @@
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\bin\Debug\netcoreapp2.0\10. Repeat String.deps.json
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\bin\Debug\netcoreapp2.0\10. Repeat String.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\bin\Debug\netcoreapp2.0\10. Repeat String.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\bin\Debug\netcoreapp2.0\10. Repeat String.dll
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\bin\Debug\netcoreapp2.0\10. Repeat String.pdb
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\obj\Debug\netcoreapp2.0\10. Repeat String.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\obj\Debug\netcoreapp2.0\10. Repeat String.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\obj\Debug\netcoreapp2.0\10. Repeat String.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\obj\Debug\netcoreapp2.0\10. Repeat String.dll
+c:\users\theoners\Source\repos\Methods - Lab\10. Repeat String\obj\Debug\netcoreapp2.0\10. Repeat String.pdb

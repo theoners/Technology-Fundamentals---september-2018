@@ -1,0 +1,10 @@
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.0\07. NxN Matrix.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.0\07. NxN Matrix.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.0\07. NxN Matrix.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.0\07. NxN Matrix.dll
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp2.0\07. NxN Matrix.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.0\07. NxN Matrix.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.0\07. NxN Matrix.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.0\07. NxN Matrix.dll
+c:\users\theoners\Source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp2.0\07. NxN Matrix.pdb

@@ -1,0 +1,10 @@
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.deps.json
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.dll
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.pdb
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.dll
+c:\users\theoners\Source\repos\Methods - Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.pdb

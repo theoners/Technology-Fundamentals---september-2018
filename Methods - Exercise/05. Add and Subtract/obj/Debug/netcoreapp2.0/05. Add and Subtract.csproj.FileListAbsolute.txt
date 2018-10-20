@@ -1,0 +1,10 @@
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.0\05. Add and Subtract.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.0\05. Add and Subtract.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.0\05. Add and Subtract.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.0\05. Add and Subtract.dll
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp2.0\05. Add and Subtract.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.0\05. Add and Subtract.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.0\05. Add and Subtract.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.0\05. Add and Subtract.dll
+c:\users\theoners\Source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp2.0\05. Add and Subtract.pdb

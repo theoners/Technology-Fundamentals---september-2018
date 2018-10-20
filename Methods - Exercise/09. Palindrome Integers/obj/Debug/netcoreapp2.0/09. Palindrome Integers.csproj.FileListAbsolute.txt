@@ -1,0 +1,10 @@
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.dll
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.dll
+c:\users\theoners\Source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.pdb

@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.0\02. Vowels Count.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.0\02. Vowels Count.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.0\02. Vowels Count.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.0\02. Vowels Count.dll
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.0\02. Vowels Count.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.dll
+c:\users\theoners\Source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.0\02. Vowels Count.pdb

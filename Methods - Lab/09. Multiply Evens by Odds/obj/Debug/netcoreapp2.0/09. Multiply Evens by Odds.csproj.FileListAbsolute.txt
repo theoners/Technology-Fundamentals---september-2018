@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.deps.json
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+c:\users\theoners\Source\repos\Methods - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb

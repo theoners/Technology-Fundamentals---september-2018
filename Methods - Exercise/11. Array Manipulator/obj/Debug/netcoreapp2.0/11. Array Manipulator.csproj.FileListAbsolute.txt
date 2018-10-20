@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.0\11. Array Manipulator.deps.json
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.0\11. Array Manipulator.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.0\11. Array Manipulator.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.0\11. Array Manipulator.dll
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp2.0\11. Array Manipulator.pdb
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.dll
+c:\users\theoners\Source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp2.0\11. Array Manipulator.pdb

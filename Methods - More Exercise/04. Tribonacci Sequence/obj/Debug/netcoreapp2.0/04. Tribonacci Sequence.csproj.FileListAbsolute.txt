@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp2.0\04. Tribonacci Sequence.deps.json
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp2.0\04. Tribonacci Sequence.runtimeconfig.json
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp2.0\04. Tribonacci Sequence.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp2.0\04. Tribonacci Sequence.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp2.0\04. Tribonacci Sequence.pdb
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.dll
+c:\users\theoners\Source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp2.0\04. Tribonacci Sequence.pdb
