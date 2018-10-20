@@ -1,0 +1,11 @@
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.deps.json
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.runtimeconfig.json
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.runtimeconfig.dev.json
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.dll
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.pdb
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.AssemblyInfo.cs
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.dll
+c:\users\theoners\Source\repos\Arrays - More Exercise\04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\04. Longest Increasing Subsequence.pdb
