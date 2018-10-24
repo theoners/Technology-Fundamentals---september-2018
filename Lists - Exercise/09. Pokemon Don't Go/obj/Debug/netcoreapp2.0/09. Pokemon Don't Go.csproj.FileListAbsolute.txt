@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.0\09. Pokemon Don't Go.deps.json
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.0\09. Pokemon Don't Go.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.0\09. Pokemon Don't Go.pdb
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.0\09. Pokemon Don't Go.pdb

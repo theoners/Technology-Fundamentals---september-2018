@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.0\07. Append Arrays.deps.json
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.0\07. Append Arrays.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.0\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.0\07. Append Arrays.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.0\07. Append Arrays.pdb
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.0\07. Append Arrays.pdb

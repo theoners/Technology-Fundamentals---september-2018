@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.deps.json
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.0\05. Bomb Numbers.pdb
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.0\05. Bomb Numbers.pdb

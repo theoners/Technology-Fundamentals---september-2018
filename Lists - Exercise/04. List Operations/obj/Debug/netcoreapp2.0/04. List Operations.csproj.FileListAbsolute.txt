@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.deps.json
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.0\04. List Operations.pdb
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.0\04. List Operations.pdb

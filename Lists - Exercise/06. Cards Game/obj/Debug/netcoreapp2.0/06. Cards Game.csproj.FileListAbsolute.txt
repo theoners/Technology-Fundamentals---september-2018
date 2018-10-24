@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.0\06. Cards Game.deps.json
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.0\06. Cards Game.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.0\06. Cards Game.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.0\06. Cards Game.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp2.0\06. Cards Game.pdb
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.0\06. Cards Game.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.0\06. Cards Game.dll
+C:\Users\theoners\Source\repos\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp2.0\06. Cards Game.pdb
