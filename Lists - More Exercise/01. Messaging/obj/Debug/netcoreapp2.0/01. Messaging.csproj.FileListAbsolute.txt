@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.0\01. Messaging.deps.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.0\01. Messaging.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.0\01. Messaging.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.0\01. Messaging.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.0\01. Messaging.pdb
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.0\01. Messaging.pdb

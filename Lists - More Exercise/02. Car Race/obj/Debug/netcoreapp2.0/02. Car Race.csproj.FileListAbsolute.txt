@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp2.0\02. Car Race.deps.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp2.0\02. Car Race.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp2.0\02. Car Race.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp2.0\02. Car Race.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp2.0\02. Car Race.pdb
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp2.0\02. Car Race.pdb

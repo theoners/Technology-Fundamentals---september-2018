@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.deps.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.pdb
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.dll
+C:\Users\theoners\Source\repos\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.pdb
