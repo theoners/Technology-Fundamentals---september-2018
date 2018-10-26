@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\bin\Debug\netcoreapp2.0\03. Gauss' Trick.deps.json
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\bin\Debug\netcoreapp2.0\03. Gauss' Trick.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\bin\Debug\netcoreapp2.0\03. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\bin\Debug\netcoreapp2.0\03. Gauss' Trick.dll
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\bin\Debug\netcoreapp2.0\03. Gauss' Trick.pdb
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.dll
+C:\Users\theoners\Source\repos\Lists - Lab\03. Gauss' Trick\obj\Debug\netcoreapp2.0\03. Gauss' Trick.pdb

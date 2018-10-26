@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.0\04. List of Products.deps.json
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.0\04. List of Products.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.0\04. List of Products.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.0\04. List of Products.dll
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.0\04. List of Products.pdb
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.dll
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.pdb
+C:\Users\theoners\Source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.0\04. List of Products.csprojResolveAssemblyReference.cache

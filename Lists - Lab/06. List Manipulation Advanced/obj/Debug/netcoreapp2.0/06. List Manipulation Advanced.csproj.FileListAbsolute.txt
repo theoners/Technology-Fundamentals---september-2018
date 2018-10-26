@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\bin\Debug\netcoreapp2.0\06. List Manipulation Advanced.deps.json
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\bin\Debug\netcoreapp2.0\06. List Manipulation Advanced.runtimeconfig.json
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\bin\Debug\netcoreapp2.0\06. List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\bin\Debug\netcoreapp2.0\06. List Manipulation Advanced.dll
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\bin\Debug\netcoreapp2.0\06. List Manipulation Advanced.pdb
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.dll
+C:\Users\theoners\Source\repos\Lists - Lab\06. List Manipulation Advanced\obj\Debug\netcoreapp2.0\06. List Manipulation Advanced.pdb
