@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.0\02. Odd Occurrences.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.0\02. Odd Occurrences.pdb

@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.0\03. Word Synonyms.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.0\03. Word Synonyms.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.0\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.0\03. Word Synonyms.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.0\03. Word Synonyms.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.0\03. Word Synonyms.pdb
