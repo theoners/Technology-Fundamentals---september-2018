@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\bin\Debug\netcoreapp2.0\02. Judge.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\bin\Debug\netcoreapp2.0\02. Judge.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\bin\Debug\netcoreapp2.0\02. Judge.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\bin\Debug\netcoreapp2.0\02. Judge.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\bin\Debug\netcoreapp2.0\02. Judge.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\02. Judge\obj\Debug\netcoreapp2.0\02. Judge.pdb

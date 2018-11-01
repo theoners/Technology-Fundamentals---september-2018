@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\bin\Debug\netcoreapp2.0\01. Ranking.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\bin\Debug\netcoreapp2.0\01. Ranking.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\bin\Debug\netcoreapp2.0\01. Ranking.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\bin\Debug\netcoreapp2.0\01. Ranking.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\bin\Debug\netcoreapp2.0\01. Ranking.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\01. Ranking\obj\Debug\netcoreapp2.0\01. Ranking.pdb

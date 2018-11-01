@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - More Exercise\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.pdb
