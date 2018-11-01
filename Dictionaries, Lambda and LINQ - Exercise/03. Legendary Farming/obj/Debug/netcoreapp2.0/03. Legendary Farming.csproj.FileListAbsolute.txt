@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.pdb

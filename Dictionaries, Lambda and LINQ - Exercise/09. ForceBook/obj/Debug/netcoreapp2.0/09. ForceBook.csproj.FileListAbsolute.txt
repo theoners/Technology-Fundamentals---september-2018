@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.pdb

@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\bin\Debug\netcoreapp2.0\08. Company Users.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\bin\Debug\netcoreapp2.0\08. Company Users.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\bin\Debug\netcoreapp2.0\08. Company Users.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\bin\Debug\netcoreapp2.0\08. Company Users.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\bin\Debug\netcoreapp2.0\08. Company Users.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\obj\Debug\netcoreapp2.0\08. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\obj\Debug\netcoreapp2.0\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\obj\Debug\netcoreapp2.0\08. Company Users.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\obj\Debug\netcoreapp2.0\08. Company Users.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\08. Company Users\obj\Debug\netcoreapp2.0\08. Company Users.pdb

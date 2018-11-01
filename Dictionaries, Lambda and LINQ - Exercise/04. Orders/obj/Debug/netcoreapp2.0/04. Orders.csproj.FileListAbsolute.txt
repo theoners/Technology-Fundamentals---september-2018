@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\bin\Debug\netcoreapp2.0\04. Orders.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\bin\Debug\netcoreapp2.0\04. Orders.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\bin\Debug\netcoreapp2.0\04. Orders.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\bin\Debug\netcoreapp2.0\04. Orders.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\bin\Debug\netcoreapp2.0\04. Orders.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\04. Orders\obj\Debug\netcoreapp2.0\04. Orders.pdb

@@ -1,0 +1,11 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.csprojResolveAssemblyReference.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.pdb

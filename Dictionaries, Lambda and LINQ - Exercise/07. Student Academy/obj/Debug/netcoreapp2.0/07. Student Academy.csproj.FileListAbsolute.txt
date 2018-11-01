@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\bin\Debug\netcoreapp2.0\07. Student Academy.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\bin\Debug\netcoreapp2.0\07. Student Academy.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\bin\Debug\netcoreapp2.0\07. Student Academy.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\bin\Debug\netcoreapp2.0\07. Student Academy.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\bin\Debug\netcoreapp2.0\07. Student Academy.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\obj\Debug\netcoreapp2.0\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\obj\Debug\netcoreapp2.0\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\obj\Debug\netcoreapp2.0\07. Student Academy.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\obj\Debug\netcoreapp2.0\07. Student Academy.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\07. Student Academy\obj\Debug\netcoreapp2.0\07. Student Academy.pdb

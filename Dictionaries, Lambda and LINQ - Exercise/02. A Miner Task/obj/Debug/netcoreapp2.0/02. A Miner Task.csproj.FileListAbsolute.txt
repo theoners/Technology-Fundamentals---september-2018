@@ -1,0 +1,10 @@
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.0\02. A Miner Task.deps.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.0\02. A Miner Task.runtimeconfig.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.0\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.0\02. A Miner Task.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\netcoreapp2.0\02. A Miner Task.pdb
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.0\02. A Miner Task.AssemblyInfo.cs
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.0\02. A Miner Task.dll
+C:\Users\theoners\Source\repos\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\netcoreapp2.0\02. A Miner Task.pdb
