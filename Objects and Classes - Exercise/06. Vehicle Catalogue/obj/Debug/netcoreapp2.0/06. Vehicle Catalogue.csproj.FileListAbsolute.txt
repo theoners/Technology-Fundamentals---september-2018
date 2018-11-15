@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.0\06. Vehicle Catalogue.deps.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.0\06. Vehicle Catalogue.runtimeconfig.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.0\06. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.0\06. Vehicle Catalogue.dll
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp2.0\06. Vehicle Catalogue.pdb
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.dll
+C:\Users\theon\source\repos\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp2.0\06. Vehicle Catalogue.pdb

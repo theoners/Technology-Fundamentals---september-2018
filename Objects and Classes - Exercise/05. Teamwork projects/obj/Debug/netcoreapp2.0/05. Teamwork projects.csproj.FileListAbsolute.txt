@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.0\05. Teamwork projects.deps.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.0\05. Teamwork projects.runtimeconfig.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.0\05. Teamwork projects.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.0\05. Teamwork projects.dll
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.0\05. Teamwork projects.pdb
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.0\05. Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.0\05. Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.0\05. Teamwork projects.AssemblyInfo.cs
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.0\05. Teamwork projects.dll
+C:\Users\theon\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.0\05. Teamwork projects.pdb
