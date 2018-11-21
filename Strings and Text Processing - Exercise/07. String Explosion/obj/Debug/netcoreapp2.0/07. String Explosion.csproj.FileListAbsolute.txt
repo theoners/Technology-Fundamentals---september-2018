@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp2.0\07. String Explosion.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp2.0\07. String Explosion.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp2.0\07. String Explosion.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp2.0\07. String Explosion.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp2.0\07. String Explosion.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp2.0\07. String Explosion.pdb

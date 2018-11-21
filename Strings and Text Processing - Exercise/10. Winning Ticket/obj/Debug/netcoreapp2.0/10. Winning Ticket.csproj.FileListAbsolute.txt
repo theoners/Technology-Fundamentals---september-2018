@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.0\10. Winning Ticket.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.0\10. Winning Ticket.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.0\10. Winning Ticket.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.0\10. Winning Ticket.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.0\10. Winning Ticket.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.0\10. Winning Ticket.pdb

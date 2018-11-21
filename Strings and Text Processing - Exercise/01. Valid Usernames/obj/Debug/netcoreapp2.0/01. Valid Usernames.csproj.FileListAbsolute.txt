@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp2.0\01. Valid Usernames.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp2.0\01. Valid Usernames.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp2.0\01. Valid Usernames.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp2.0\01. Valid Usernames.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp2.0\01. Valid Usernames.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp2.0\01. Valid Usernames.pdb

@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.pdb

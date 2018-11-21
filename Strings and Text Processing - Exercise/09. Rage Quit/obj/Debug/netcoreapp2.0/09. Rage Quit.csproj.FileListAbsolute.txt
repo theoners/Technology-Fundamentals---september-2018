@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\netcoreapp2.0\09. Rage Quit.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\netcoreapp2.0\09. Rage Quit.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\netcoreapp2.0\09. Rage Quit.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\netcoreapp2.0\09. Rage Quit.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\netcoreapp2.0\09. Rage Quit.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\netcoreapp2.0\09. Rage Quit.pdb
