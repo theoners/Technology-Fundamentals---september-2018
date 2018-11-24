@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.pdb

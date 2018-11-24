@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.pdb

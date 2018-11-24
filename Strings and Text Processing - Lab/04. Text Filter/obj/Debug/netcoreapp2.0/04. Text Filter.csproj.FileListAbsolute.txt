@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.0\04. Text Filter.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.0\04. Text Filter.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.0\04. Text Filter.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.0\04. Text Filter.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.0\04. Text Filter.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.0\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.0\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.0\04. Text Filter.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.0\04. Text Filter.dll
+C:\Users\theon\source\repos\Strings and Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.0\04. Text Filter.pdb
