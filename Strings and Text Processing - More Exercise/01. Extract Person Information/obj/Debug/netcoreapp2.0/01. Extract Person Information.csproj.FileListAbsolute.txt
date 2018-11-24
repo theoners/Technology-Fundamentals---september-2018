@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.pdb

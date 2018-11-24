@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.pdb

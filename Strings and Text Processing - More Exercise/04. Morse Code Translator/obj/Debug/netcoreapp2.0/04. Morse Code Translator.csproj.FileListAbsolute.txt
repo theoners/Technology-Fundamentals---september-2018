@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.deps.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.runtimeconfig.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.pdb
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.AssemblyInfo.cs
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.dll
+C:\Users\theon\source\repos\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.pdb
