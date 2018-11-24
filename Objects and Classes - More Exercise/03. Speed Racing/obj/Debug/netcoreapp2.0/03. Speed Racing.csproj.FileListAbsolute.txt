@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.0\03. Speed Racing.deps.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.0\03. Speed Racing.runtimeconfig.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.0\03. Speed Racing.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.0\03. Speed Racing.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\bin\Debug\netcoreapp2.0\03. Speed Racing.pdb
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.AssemblyInfo.cs
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\03. Speed Racing\obj\Debug\netcoreapp2.0\03. Speed Racing.pdb

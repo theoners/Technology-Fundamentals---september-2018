@@ -1,0 +1,10 @@
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp2.0\02. Oldest Family Member.deps.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp2.0\02. Oldest Family Member.runtimeconfig.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp2.0\02. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp2.0\02. Oldest Family Member.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp2.0\02. Oldest Family Member.pdb
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp2.0\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp2.0\02. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp2.0\02. Oldest Family Member.AssemblyInfo.cs
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp2.0\02. Oldest Family Member.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp2.0\02. Oldest Family Member.pdb

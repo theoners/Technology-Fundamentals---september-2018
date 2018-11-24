@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.0\05. Shopping Spree.deps.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.0\05. Shopping Spree.runtimeconfig.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.0\05. Shopping Spree.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.0\05. Shopping Spree.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp2.0\05. Shopping Spree.pdb
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.AssemblyInfo.cs
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.dll
+C:\Users\theon\source\repos\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp2.0\05. Shopping Spree.pdb
