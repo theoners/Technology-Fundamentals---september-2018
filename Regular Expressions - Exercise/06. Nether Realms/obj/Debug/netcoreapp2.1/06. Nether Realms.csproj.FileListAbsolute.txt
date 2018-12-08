@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\bin\Debug\netcoreapp2.1\06. Nether Realms.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\bin\Debug\netcoreapp2.1\06. Nether Realms.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\bin\Debug\netcoreapp2.1\06. Nether Realms.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\bin\Debug\netcoreapp2.1\06. Nether Realms.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\bin\Debug\netcoreapp2.1\06. Nether Realms.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\06. Nether Realms\obj\Debug\netcoreapp2.1\06. Nether Realms.pdb

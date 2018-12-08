@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\bin\Debug\netcoreapp2.1\05. Star Enigma.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\bin\Debug\netcoreapp2.1\05. Star Enigma.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\bin\Debug\netcoreapp2.1\05. Star Enigma.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\bin\Debug\netcoreapp2.1\05. Star Enigma.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\bin\Debug\netcoreapp2.1\05. Star Enigma.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\05. Star Enigma\obj\Debug\netcoreapp2.1\05. Star Enigma.pdb

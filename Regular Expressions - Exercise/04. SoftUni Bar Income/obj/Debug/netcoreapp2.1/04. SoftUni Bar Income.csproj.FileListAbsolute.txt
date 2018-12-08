@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\bin\Debug\netcoreapp2.1\04. SoftUni Bar Income.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\bin\Debug\netcoreapp2.1\04. SoftUni Bar Income.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\bin\Debug\netcoreapp2.1\04. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\bin\Debug\netcoreapp2.1\04. SoftUni Bar Income.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\bin\Debug\netcoreapp2.1\04. SoftUni Bar Income.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\04. SoftUni Bar Income\obj\Debug\netcoreapp2.1\04. SoftUni Bar Income.pdb

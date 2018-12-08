@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\bin\Debug\netcoreapp2.1\2. Furniture.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\bin\Debug\netcoreapp2.1\2. Furniture.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\bin\Debug\netcoreapp2.1\2. Furniture.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\bin\Debug\netcoreapp2.1\2. Furniture.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\bin\Debug\netcoreapp2.1\2. Furniture.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\2. Furniture\obj\Debug\netcoreapp2.1\2. Furniture.pdb

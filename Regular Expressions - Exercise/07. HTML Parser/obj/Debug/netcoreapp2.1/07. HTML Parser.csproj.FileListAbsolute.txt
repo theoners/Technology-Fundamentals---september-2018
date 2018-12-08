@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\bin\Debug\netcoreapp2.1\07. HTML Parser.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\bin\Debug\netcoreapp2.1\07. HTML Parser.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\bin\Debug\netcoreapp2.1\07. HTML Parser.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\bin\Debug\netcoreapp2.1\07. HTML Parser.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\bin\Debug\netcoreapp2.1\07. HTML Parser.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\07. HTML Parser\obj\Debug\netcoreapp2.1\07. HTML Parser.pdb

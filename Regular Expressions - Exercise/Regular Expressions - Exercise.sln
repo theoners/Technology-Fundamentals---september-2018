@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Extract Emails", "01. Extract Emails\01. Extract Emails.csproj", "{F95C33EF-D0CE-437F-88B3-42B5141A68DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Furniture", "2. Furniture\2. Furniture.csproj", "{92C20ADA-A305-4E4F-A86F-7E4DFBFBAFEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Race", "03. Race\03. Race.csproj", "{E770C244-5AE2-4759-9346-D242C0768408}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. SoftUni Bar Income", "04. SoftUni Bar Income\04. SoftUni Bar Income.csproj", "{97E2DB03-F63A-4030-B1AD-DE488CFA93F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Star Enigma", "05. Star Enigma\05. Star Enigma.csproj", "{27563056-E361-4D1F-B463-0C3EA7B12B0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Nether Realms", "06. Nether Realms\06. Nether Realms.csproj", "{3D103223-69CC-4BA6-BBDA-75473EB7ED28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. HTML Parser", "07. HTML Parser\07. HTML Parser.csproj", "{4B90F187-0D5B-4392-A4FE-BD7FA3973544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95C33EF-D0CE-437F-88B3-42B5141A68DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95C33EF-D0CE-437F-88B3-42B5141A68DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95C33EF-D0CE-437F-88B3-42B5141A68DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95C33EF-D0CE-437F-88B3-42B5141A68DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C20ADA-A305-4E4F-A86F-7E4DFBFBAFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C20ADA-A305-4E4F-A86F-7E4DFBFBAFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C20ADA-A305-4E4F-A86F-7E4DFBFBAFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C20ADA-A305-4E4F-A86F-7E4DFBFBAFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E770C244-5AE2-4759-9346-D242C0768408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E770C244-5AE2-4759-9346-D242C0768408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E770C244-5AE2-4759-9346-D242C0768408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E770C244-5AE2-4759-9346-D242C0768408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E2DB03-F63A-4030-B1AD-DE488CFA93F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E2DB03-F63A-4030-B1AD-DE488CFA93F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E2DB03-F63A-4030-B1AD-DE488CFA93F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E2DB03-F63A-4030-B1AD-DE488CFA93F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27563056-E361-4D1F-B463-0C3EA7B12B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27563056-E361-4D1F-B463-0C3EA7B12B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27563056-E361-4D1F-B463-0C3EA7B12B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27563056-E361-4D1F-B463-0C3EA7B12B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D103223-69CC-4BA6-BBDA-75473EB7ED28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D103223-69CC-4BA6-BBDA-75473EB7ED28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D103223-69CC-4BA6-BBDA-75473EB7ED28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D103223-69CC-4BA6-BBDA-75473EB7ED28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B90F187-0D5B-4392-A4FE-BD7FA3973544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B90F187-0D5B-4392-A4FE-BD7FA3973544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B90F187-0D5B-4392-A4FE-BD7FA3973544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B90F187-0D5B-4392-A4FE-BD7FA3973544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79854D6D-B896-4436-8582-BCEB20C97D70}
+	EndGlobalSection
+EndGlobal

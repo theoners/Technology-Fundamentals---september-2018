@@ -1,0 +1,11 @@
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\bin\Debug\netcoreapp2.1\01. Extract Emails.deps.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\bin\Debug\netcoreapp2.1\01. Extract Emails.runtimeconfig.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\bin\Debug\netcoreapp2.1\01. Extract Emails.runtimeconfig.dev.json
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\bin\Debug\netcoreapp2.1\01. Extract Emails.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\bin\Debug\netcoreapp2.1\01. Extract Emails.pdb
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.csprojAssemblyReference.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.AssemblyInfo.cs
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.dll
+C:\Users\theon\source\repos\Regular Expressions - Exercise\01. Extract Emails\obj\Debug\netcoreapp2.1\01. Extract Emails.pdb
