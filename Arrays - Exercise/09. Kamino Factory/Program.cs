@@ -44,7 +44,7 @@ namespace _09._Kamino_Factory
                           currentIndex=i;
                         }
 
-                        if (currentLenght>lenght)
+                        if (currentLenght>lenght|| currentLenght == lenght&& (currentIndex < index|| currentSum > sum))
                         {
                             lenght = currentLenght;
                             index = currentIndex;
@@ -53,26 +53,7 @@ namespace _09._Kamino_Factory
                             sum = currentSum;
 
                         }
-                        else if (currentLenght==lenght)
-                        {
-                            if (currentIndex<index)
-                            {
-                                lenght = currentIndex;
-                                index = currentIndex;
-                                row = currentRow;
-                                DNA = currentDNA;
-                                sum = currentSum;
-                            }
-                            else if (currentSum>sum && currentIndex==index)
-                            {
-                                lenght = currentIndex;
-                                index = currentIndex;
-                                row = currentRow;
-                                DNA = currentDNA;
-                                sum = currentSum;
-                            }
-                        }
-                        
+                       
                     }
                     else
                     {
